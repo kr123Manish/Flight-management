@@ -1,27 +1,29 @@
 # Flight Management DBMS mini Project
-
 As a part of our University Savitribhai Fule, we made this project for Database Management Systems (DBMS).<br>
-This project contains theoretical as well as implementation in HTML5, CSS,JAVASCRIPT,MY SQL,PHP.<br>
-If you liked the repo do :star: it. 
+This project contains theoretical as well as implementation in HTML5, CSS,JAVASCRIPT,MYSQL,PHP.<br>
+## Prerequisite
+- HTML-5
+ - CSS
+ - JAVASCRIPT
+ - BOOTSTRAP v4.6
+ - MySQL
+ - PHP
+## Overview of the Project
+- It is a fullstack website demo
+- For Frontend we use HTML-5 , CSS, JavaScript
+- For Database we use MySQL
+- For Backend we use PHP 
+- note: This website strongly focused on Backend(PHP,MySQL)  specially on MySQL therefore it is not 100% responsive and good for small devices. <a href="http://airline-com.stackstaging.com/">Click here for visit</a>
 
-## Pre-requisite
+<img src="https://github.com/kr123Manish/Mini_DBMS_Project/blob/main/images/1.png" width="49%"></img>
+<img src="https://github.com/kr123Manish/Mini_DBMS_Project/blob/main/images/3.png" width="49%"></img>
+<img src="https://github.com/kr123Manish/Mini_DBMS_Project/blob/main/images/2.png" width="49%"></img>
+<img src="https://github.com/kr123Manish/Mini_DBMS_Project/blob/main/images/4.png" width="49%"></img>
+<img src="https://github.com/kr123Manish/Mini_DBMS_Project/blob/main/images/5.png" width="49%"></img>
+<img src="https://github.com/kr123Manish/Mini_DBMS_Project/blob/main/images/6.png" width="49%"></img>
+<img src="https://github.com/kr123Manish/Mini_DBMS_Project/blob/main/images/7.png" width="49%"></img>
+<img src="https://github.com/kr123Manish/Mini_DBMS_Project/blob/main/images/8.png" width="49%"></img>
+<img src="https://github.com/kr123Manish/Mini_DBMS_Project/blob/main/images/9.png" width="49%"></img>
+<img src="https://github.com/kr123Manish/Mini_DBMS_Project/blob/main/images/10.png" width="49%"></img>
 
- HTML5, CSS,JAVASCRIPT,MY SQL,PHP.
-
-## Contents
-
-- Mini world and Project Description
-- Frontend disign
-  - HTML5
-  - CSS
-  - JAVASCRIPT
-- Database
-  - My SQL
-- Backend Development
-  - PHP
-## 1. Mini world and Description
-
-In this modern era of online shopping no seller wants to be left behind, moreover due to its simplicity the shift from offline selling model to an online selling model is witnessing a rampant growth.<br>
-Therefore, as an engineer our job is to ease the path of this transition for the seller.
-Amongst many things that an online site requires the most important is a database system. Hence in this project we are planning to design a database where small clothing sellers can sell their product online.
 
