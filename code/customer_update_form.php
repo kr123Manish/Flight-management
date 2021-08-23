@@ -3,7 +3,7 @@ session_start();
     $cno=$_SESSION['mob_no'];
     
   // echo $cno;
-    $link=mysqli_connect("sdb-e.hosting.stackcp.net","flight-3138337e65","Manish123","flight-3138337e65");
+    $link=mysqli_connect("sdb-e.hosting.stagckcpp.net","flight-313833rt7e65","password","flight-313833rt7e65");
    if (mysqli_connect_error()) {
       // echo "There was an error to connecting to the database";
       die("Database Connection Error");
