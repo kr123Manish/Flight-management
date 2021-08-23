@@ -4,7 +4,7 @@ $nerror="";
 $merror="";
 $aerror="";
 if (array_key_exists("signup", $_POST)) {
-   $link=mysqli_connect("sdb-e.hosting.stackcp.net","flight-3138337e65","Manish123","flight-3138337e65");
+   $link=mysqli_connect("sdb-e.hosting.stagckcpp.net","flight-313833rt7e65","Password","flight-313833rt7e65");
    if (mysqli_connect_error()) {
       // echo "There was an error to connecting to the database";
       die("Database Connection Error");
