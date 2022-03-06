@@ -3,7 +3,7 @@
 - For Frontend we use HTML-5 , CSS, JavaScript
 - For Database we use MySQL (operations Select, Insert, Delete, Update)
 - For Backend we use PHP 
-- note: This website strongly focused on Backend(PHP,MySQL)  specially on MySQL therefore it is not 100% responsive and good for small devices. <a href="http://airline-com.stackstaging.com/">:zap: Click here for visit :zap:</a>
+- note: This website strongly focused on Backend(PHP,MySQL)  specially on MySQL therefore it is not 100% responsive and good for small devices. 
 
 ## Prerequisite
 - HTML-5
@@ -30,7 +30,6 @@
 <img src="https://github.com/kr123Manish/Mini_DBMS_Project/blob/main/images/6.png" width="49%"></img>
 <img src="https://github.com/kr123Manish/Mini_DBMS_Project/blob/main/images/9.png" width="49%"></img>
 
-## <a href="http://airline-com.stackstaging.com/">:zap:Website link:zap:</a>
 ### <a href="https://github.com/kr123Manish/Mini_DBMS_Project/tree/main/code">Get source code :books: and images :camera:</a>
 #### If you liked :smiley: it don't forget to :star: it. 
 
